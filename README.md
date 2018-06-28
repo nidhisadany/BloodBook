@@ -2,6 +2,16 @@
 
 An Android based application that provides a central platform for the donor, receiver and blood bank for immediate communication during emergencies.
 
+Initial Setup :
+
+We have used Cloud Firestore for Database Management. 
+Go through the documentation to get started with cloud firestore:
+
+https://firebase.google.com/docs/firestore/quickstart
+
+Next clone the project and build in Android Studio.
+------------------------------------------------------------------------------------------------
+
 Functionalities provided by the application :
 
 1.	DONOR :
@@ -42,3 +52,4 @@ Functionalities provided by the application :
 
 (f) As the health safety factor is given highest priority, verification of the donor whether 3 months are completed or not is done and accordingly access is enabled via app to donate blood again
 
+------------------------------------------------------------------------------------------------
