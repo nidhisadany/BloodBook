@@ -10,6 +10,7 @@ Go through the documentation to get started with cloud firestore:
 https://firebase.google.com/docs/firestore/quickstart
 
 Next clone the project and build in Android Studio.
+
 ------------------------------------------------------------------------------------------------
 
 Functionalities provided by the application :
